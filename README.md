@@ -1,2 +1,5 @@
-# CODE-PROTECTION
-Sharing some code protection experiences in this repository.
+#保护代码
+在此存储库中共享一些代码保护经验。
+#保护代码
+在此存储库中共享一些代码保护经验。
+memexec - 纯内存执行 ELF，不落盘，极简 API，一行调用即可从缓冲区直接运行动态程序。
